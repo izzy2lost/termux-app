@@ -2,7 +2,7 @@
   # You may pin to the exact commit or the version.
   # uses: TeamNecta/build-signed-apk@eefb21641cb768bcb841c11f1cf83dae1e1a7e11
   uses: TeamNecta/build-signed-apk@v2.1
-  with:
+  with: gradlew_dir: .
     # The JDK version to use
     java_version: # optional, default is 17
     # The JDK distribution to use
