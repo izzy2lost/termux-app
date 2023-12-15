@@ -217,7 +217,7 @@ task downloadBootstraps() {
             def version = "2023.07.13-r2" + "+" + packageVariant
             downloadBootstrap("aarch64", "0874b7e157d2afc81ffc2ea55e42b819225a5617e25d11ab77f247cc25dd61ce", version)
             downloadBootstrap("arm", "58603fd850a7f1b8147f57941c4f8e83b271b94955d81df9f75732aef402ede1", version)
-            downloadBootstrap("i686", "d64819f6fe91e129278151f0ef9be18e811bc1632bddc8d945577a079e6f3074", version)
+            downloadBootstrap("i686", "a317fc90ab60bd76c8dabd5ef4f0057020187b31e9246a70a8d32cab589c8f4d", version)
             downloadBootstrap("x86_64", "0cc39947c759df8de83bb30d70080ac006e9241de5115f61f0fa94e08c0e79ac", version)
         } else if (packageVariant == "apt-android-5") {
             def version = "2022.04.28-r6" + "+" + packageVariant
