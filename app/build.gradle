@@ -216,7 +216,7 @@ task downloadBootstraps() {
         if (packageVariant == "apt-android-7") {
             def version = "2023.07.13-r2" + "+" + packageVariant
             downloadBootstrap("aarch64", "0874b7e157d2afc81ffc2ea55e42b819225a5617e25d11ab77f247cc25dd61ce", version)
-            downloadBootstrap("arm", "6bc6f9c7178806427f70b691f8e0112d980e6ba3838cdaf15cf8da61f8979490", version)
+            downloadBootstrap("arm", "58603fd850a7f1b8147f57941c4f8e83b271b94955d81df9f75732aef402ede1", version)
             downloadBootstrap("i686", "d64819f6fe91e129278151f0ef9be18e811bc1632bddc8d945577a079e6f3074", version)
             downloadBootstrap("x86_64", "0cc39947c759df8de83bb30d70080ac006e9241de5115f61f0fa94e08c0e79ac", version)
         } else if (packageVariant == "apt-android-5") {
