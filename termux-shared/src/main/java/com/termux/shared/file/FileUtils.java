@@ -10,10 +10,10 @@ import com.google.common.io.RecursiveDeleteOption;
 import com.sm64builder.shared.file.filesystem.FileType;
 import com.sm64builder.shared.file.filesystem.FileTypes;
 import com.sm64builder.shared.data.DataUtils;
-import com.sm64builder.shared.logger.Logger;
-import com.sm64builder.shared.errors.Errno;
-import com.sm64builder.shared.errors.Error;
-import com.sm64builder.shared.errors.FunctionErrno;
+import com.termux.shared.logger.Logger;
+import com.termux.shared.errors.Errno;
+import com.termux.shared.errors.Error;
+import com.termux.shared.errors.FunctionErrno;
 
 import org.apache.commons.io.filefilter.AgeFileFilter;
 import org.apache.commons.io.filefilter.IOFileFilter;

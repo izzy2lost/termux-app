@@ -1,11 +1,11 @@
-package com.sm64builder.shared.errors;
+package com.termux.shared.errors;
 
 import android.content.Context;
 
 import androidx.annotation.NonNull;
 
-import com.sm64builder.shared.logger.Logger;
-import com.sm64builder.shared.markdown.MarkdownUtils;
+import com.termux.shared.logger.Logger;
+import com.termux.shared.markdown.MarkdownUtils;
 
 import java.io.Serializable;
 import java.util.ArrayList;

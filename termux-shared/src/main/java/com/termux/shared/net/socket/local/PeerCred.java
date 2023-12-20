@@ -1,4 +1,4 @@
-package com.sm64builder.shared.net.socket.local;
+package com.termux.shared.net.socket.local;
 
 import android.content.Context;
 
@@ -7,8 +7,8 @@ import androidx.annotation.NonNull;
 
 import com.sm64builder.shared.android.ProcessUtils;
 import com.sm64builder.shared.android.UserUtils;
-import com.sm64builder.shared.logger.Logger;
-import com.sm64builder.shared.markdown.MarkdownUtils;
+import com.termux.shared.logger.Logger;
+import com.termux.shared.markdown.MarkdownUtils;
 
 /** The {@link PeerCred} of the {@link LocalClientSocket} containing info of client/peer. */
 @Keep

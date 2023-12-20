@@ -1,4 +1,4 @@
-package com.sm64builder.shared.errors;
+package com.termux.shared.errors;
 
 /** The {@link Class} that defines function error messages and codes. */
 public class FunctionErrno extends Errno {

@@ -4,11 +4,11 @@ import android.content.Context;
 
 import androidx.annotation.NonNull;
 
-import com.sm64builder.shared.errors.Errno;
+import com.termux.shared.errors.Errno;
 import com.sm64builder.shared.file.FileUtils;
 import com.sm64builder.shared.file.FileUtilsErrno;
-import com.sm64builder.shared.logger.Logger;
-import com.sm64builder.shared.errors.Error;
+import com.termux.shared.logger.Logger;
+import com.termux.shared.errors.Error;
 
 import java.io.File;
 import java.nio.charset.Charset;

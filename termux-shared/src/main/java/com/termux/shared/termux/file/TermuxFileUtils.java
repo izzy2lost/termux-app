@@ -8,10 +8,10 @@ import android.os.Environment;
 import androidx.annotation.NonNull;
 
 import com.sm64builder.shared.file.FileUtils;
-import com.sm64builder.shared.logger.Logger;
-import com.sm64builder.shared.markdown.MarkdownUtils;
+import com.termux.shared.logger.Logger;
+import com.termux.shared.markdown.MarkdownUtils;
 import com.sm64builder.shared.shell.command.ExecutionCommand;
-import com.sm64builder.shared.errors.Error;
+import com.termux.shared.errors.Error;
 import com.sm64builder.shared.file.FileUtilsErrno;
 import com.sm64builder.shared.termux.shell.command.environment.TermuxShellEnvironment;
 import com.sm64builder.shared.shell.command.runner.app.AppShell;

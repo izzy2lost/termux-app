@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
 import androidx.appcompat.widget.Toolbar;
 
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.theme.NightMode;
 
 public class AppCompatActivityUtils {

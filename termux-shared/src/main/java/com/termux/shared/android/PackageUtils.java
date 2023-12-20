@@ -19,7 +19,7 @@ import androidx.annotation.RequiresApi;
 import com.sm64builder.shared.R;
 import com.sm64builder.shared.data.DataUtils;
 import com.sm64builder.shared.interact.MessageDialogUtils;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.reflection.ReflectionUtils;
 
 import java.lang.reflect.Field;

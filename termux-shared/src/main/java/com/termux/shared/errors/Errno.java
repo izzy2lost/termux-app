@@ -1,10 +1,10 @@
-package com.sm64builder.shared.errors;
+package com.termux.shared.errors;
 
 import android.app.Activity;
 
 import androidx.annotation.NonNull;
 
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -3,7 +3,7 @@ package com.sm64builder.shared.termux.terminal;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.terminal.TerminalSession;
 import com.sm64builder.terminal.TerminalSessionClient;
 

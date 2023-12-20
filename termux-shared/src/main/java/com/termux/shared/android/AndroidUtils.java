@@ -11,8 +11,8 @@ import androidx.annotation.NonNull;
 import com.google.common.base.Joiner;
 import com.sm64builder.shared.R;
 import com.sm64builder.shared.data.DataUtils;
-import com.sm64builder.shared.logger.Logger;
-import com.sm64builder.shared.markdown.MarkdownUtils;
+import com.termux.shared.logger.Logger;
+import com.termux.shared.markdown.MarkdownUtils;
 
 import java.io.BufferedReader;
 import java.io.IOException;

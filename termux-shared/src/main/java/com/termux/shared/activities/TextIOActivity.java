@@ -25,7 +25,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
 import com.sm64builder.shared.interact.ShareUtils;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.R;
 import com.sm64builder.shared.models.TextIOInfo;
 import com.sm64builder.shared.view.KeyboardUtils;

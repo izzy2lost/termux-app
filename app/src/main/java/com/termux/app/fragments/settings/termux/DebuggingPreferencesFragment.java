@@ -14,7 +14,7 @@ import androidx.preference.PreferenceManager;
 
 import com.sm64builder.R;
 import com.sm64builder.shared.termux.settings.preferences.TermuxAppSharedPreferences;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 
 @Keep
 public class DebuggingPreferencesFragment extends PreferenceFragmentCompat {

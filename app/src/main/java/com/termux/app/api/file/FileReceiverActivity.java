@@ -22,7 +22,7 @@ import com.sm64builder.shared.termux.TermuxConstants;
 import com.sm64builder.shared.termux.TermuxConstants.TERMUX_APP;
 import com.sm64builder.shared.termux.TermuxConstants.TERMUX_APP.TERMUX_SERVICE;
 import com.sm64builder.app.TermuxService;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.termux.settings.properties.TermuxAppSharedProperties;
 import com.sm64builder.shared.termux.settings.properties.TermuxPropertyConstants;
 

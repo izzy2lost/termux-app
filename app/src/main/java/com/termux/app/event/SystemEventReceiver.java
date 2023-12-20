@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 import com.sm64builder.shared.data.IntentUtils;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.termux.TermuxUtils;
 import com.sm64builder.shared.termux.file.TermuxFileUtils;
 import com.sm64builder.shared.termux.shell.command.environment.TermuxShellEnvironment;

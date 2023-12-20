@@ -6,7 +6,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 import com.sm64builder.shared.data.DataUtils;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 
 public class ResourceUtils {
 

@@ -1,6 +1,6 @@
-package com.sm64builder.shared.shell.command.result;
+package com.termux.shared.shell.command.result;
 
-import com.sm64builder.shared.errors.Errno;
+import com.termux.shared.errors.Errno;
 
 /** The {@link Class} that defines ResultSender error messages and codes. */
 public class ResultSenderErrno extends Errno {

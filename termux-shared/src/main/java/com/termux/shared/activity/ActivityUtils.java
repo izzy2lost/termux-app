@@ -9,8 +9,8 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.sm64builder.shared.errors.Error;
-import com.sm64builder.shared.errors.FunctionErrno;
+import com.termux.shared.errors.Error;
+import com.termux.shared.errors.FunctionErrno;
 
 
 public class ActivityUtils {

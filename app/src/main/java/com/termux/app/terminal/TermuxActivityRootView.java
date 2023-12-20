@@ -16,7 +16,7 @@ import androidx.annotation.Nullable;
 import androidx.core.view.WindowInsetsCompat;
 
 import com.sm64builder.app.TermuxActivity;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.view.ViewUtils;
 
 

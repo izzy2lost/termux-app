@@ -26,7 +26,7 @@ import com.sm64builder.shared.termux.TermuxConstants;
 import com.sm64builder.app.TermuxService;
 import com.sm64builder.shared.termux.settings.properties.TermuxPropertyConstants;
 import com.sm64builder.shared.termux.terminal.io.BellHandler;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.terminal.TerminalColors;
 import com.sm64builder.terminal.TerminalSession;
 import com.sm64builder.terminal.TerminalSessionClient;

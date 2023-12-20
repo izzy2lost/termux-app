@@ -1,10 +1,10 @@
-package com.sm64builder.shared.shell.command.environment;
+package com.termux.shared.shell.command.environment;
 
 import android.content.Context;
 
 import androidx.annotation.NonNull;
 
-import com.sm64builder.shared.shell.command.ExecutionCommand;
+import com.termux.shared.shell.command.ExecutionCommand;
 
 import java.io.File;
 import java.util.HashMap;

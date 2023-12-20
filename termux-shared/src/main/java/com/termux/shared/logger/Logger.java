@@ -1,4 +1,4 @@
-package com.sm64builder.shared.logger;
+package com.termux.shared.logger;
 
 import android.content.Context;
 import android.os.Handler;

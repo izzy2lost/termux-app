@@ -4,8 +4,8 @@ import android.app.Application;
 import android.content.Context;
 
 import com.sm64builder.BuildConfig;
-import com.sm64builder.shared.errors.Error;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.errors.Error;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.termux.TermuxBootstrap;
 import com.sm64builder.shared.termux.TermuxConstants;
 import com.sm64builder.shared.termux.crash.TermuxCrashUtils;

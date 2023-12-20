@@ -10,7 +10,7 @@ import com.sm64builder.shared.android.PackageUtils;
 import com.sm64builder.shared.settings.preferences.AppSharedPreferences;
 import com.sm64builder.shared.settings.preferences.SharedPreferenceUtils;
 import com.sm64builder.shared.termux.TermuxConstants;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.data.DataUtils;
 import com.sm64builder.shared.termux.TermuxUtils;
 import com.sm64builder.shared.termux.settings.preferences.TermuxPreferenceConstants.TERMUX_APP;

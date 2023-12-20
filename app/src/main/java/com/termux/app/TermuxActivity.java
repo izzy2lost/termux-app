@@ -50,7 +50,7 @@ import com.sm64builder.app.terminal.io.TerminalToolbarViewPager;
 import com.sm64builder.app.terminal.TermuxTerminalViewClient;
 import com.sm64builder.shared.termux.extrakeys.ExtraKeysView;
 import com.sm64builder.shared.termux.interact.TextInputDialogUtils;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.termux.TermuxUtils;
 import com.sm64builder.shared.termux.settings.properties.TermuxAppSharedProperties;
 import com.sm64builder.shared.termux.theme.TermuxThemeUtils;

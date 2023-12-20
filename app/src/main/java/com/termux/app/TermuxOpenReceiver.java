@@ -17,7 +17,7 @@ import com.sm64builder.shared.termux.plugins.TermuxPluginUtils;
 import com.sm64builder.shared.data.DataUtils;
 import com.sm64builder.shared.data.IntentUtils;
 import com.sm64builder.shared.net.uri.UriUtils;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.net.uri.UriScheme;
 import com.sm64builder.shared.termux.TermuxConstants;
 

@@ -10,7 +10,7 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import com.sm64builder.app.TermuxActivity;
 import com.sm64builder.app.terminal.TermuxTerminalSessionActivityClient;
 import com.sm64builder.app.terminal.TermuxTerminalViewClient;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.termux.extrakeys.ExtraKeysConstants;
 import com.sm64builder.shared.termux.extrakeys.ExtraKeysInfo;
 import com.sm64builder.shared.termux.settings.properties.TermuxPropertyConstants;

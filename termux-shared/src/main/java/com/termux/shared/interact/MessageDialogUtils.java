@@ -11,7 +11,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.sm64builder.shared.R;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 
 public class MessageDialogUtils {
 

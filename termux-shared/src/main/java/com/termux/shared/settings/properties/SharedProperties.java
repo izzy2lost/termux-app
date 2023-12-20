@@ -11,7 +11,7 @@ import com.google.common.collect.ImmutableBiMap;
 import com.google.common.primitives.Primitives;
 import com.sm64builder.shared.file.FileUtils;
 import com.sm64builder.shared.file.filesystem.FileType;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 
 import java.io.File;
 import java.io.FileInputStream;

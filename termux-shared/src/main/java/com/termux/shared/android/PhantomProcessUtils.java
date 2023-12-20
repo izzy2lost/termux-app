@@ -6,7 +6,7 @@ import android.content.Context;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.shell.command.environment.AndroidShellEnvironment;
 import com.sm64builder.shared.shell.command.ExecutionCommand;
 import com.sm64builder.shared.shell.command.runner.app.AppShell;

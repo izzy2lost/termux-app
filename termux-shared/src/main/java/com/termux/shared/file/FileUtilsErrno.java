@@ -1,6 +1,6 @@
 package com.sm64builder.shared.file;
 
-import com.sm64builder.shared.errors.Errno;
+import com.termux.shared.errors.Errno;
 
 import java.util.HashMap;
 import java.util.Map;

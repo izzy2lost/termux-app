@@ -11,7 +11,7 @@ import com.sm64builder.shared.settings.preferences.SharedPreferenceUtils;
 import com.sm64builder.shared.termux.TermuxConstants;
 import com.sm64builder.shared.termux.TermuxUtils;
 import com.sm64builder.shared.termux.settings.preferences.TermuxPreferenceConstants.TERMUX_TASKER_APP;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 
 public class TermuxTaskerAppSharedPreferences extends AppSharedPreferences {
 

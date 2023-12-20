@@ -3,11 +3,11 @@ package com.sm64builder.shared.termux.shell;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.sm64builder.shared.errors.Error;
+import com.termux.shared.errors.Error;
 import com.sm64builder.shared.file.filesystem.FileTypes;
 import com.sm64builder.shared.termux.TermuxConstants;
 import com.sm64builder.shared.file.FileUtils;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.termux.settings.properties.TermuxAppSharedProperties;
 
 import org.apache.commons.io.filefilter.TrueFileFilter;

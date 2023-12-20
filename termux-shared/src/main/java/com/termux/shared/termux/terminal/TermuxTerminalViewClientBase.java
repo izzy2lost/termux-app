@@ -3,7 +3,7 @@ package com.sm64builder.shared.termux.terminal;
 import android.view.KeyEvent;
 import android.view.MotionEvent;
 
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.terminal.TerminalSession;
 import com.sm64builder.view.TerminalViewClient;
 

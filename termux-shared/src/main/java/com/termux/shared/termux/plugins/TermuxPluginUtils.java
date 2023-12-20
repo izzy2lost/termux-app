@@ -16,8 +16,8 @@ import com.sm64builder.shared.file.FileUtils;
 import com.sm64builder.shared.termux.file.TermuxFileUtils;
 import com.sm64builder.shared.shell.command.result.ResultConfig;
 import com.sm64builder.shared.shell.command.result.ResultData;
-import com.sm64builder.shared.errors.Errno;
-import com.sm64builder.shared.errors.Error;
+import com.termux.shared.errors.Errno;
+import com.termux.shared.errors.Error;
 import com.sm64builder.shared.notification.NotificationUtils;
 import com.sm64builder.shared.termux.models.UserAction;
 import com.sm64builder.shared.termux.notification.TermuxNotificationUtils;
@@ -27,14 +27,14 @@ import com.sm64builder.shared.shell.ShellUtils;
 import com.sm64builder.shared.android.AndroidUtils;
 import com.sm64builder.shared.termux.TermuxConstants;
 import com.sm64builder.shared.termux.TermuxConstants.TERMUX_APP.TERMUX_SERVICE;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.termux.settings.preferences.TermuxAppSharedPreferences;
 import com.sm64builder.shared.termux.settings.preferences.TermuxPreferenceConstants.TERMUX_APP;
 import com.sm64builder.shared.models.ReportInfo;
 import com.sm64builder.shared.termux.settings.properties.TermuxAppSharedProperties;
 import com.sm64builder.shared.shell.command.ExecutionCommand;
 import com.sm64builder.shared.data.DataUtils;
-import com.sm64builder.shared.markdown.MarkdownUtils;
+import com.termux.shared.markdown.MarkdownUtils;
 import com.sm64builder.shared.termux.TermuxUtils;
 
 public class TermuxPluginUtils {

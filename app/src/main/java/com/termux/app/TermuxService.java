@@ -25,7 +25,7 @@ import com.sm64builder.app.terminal.TermuxTerminalSessionServiceClient;
 import com.sm64builder.shared.termux.plugins.TermuxPluginUtils;
 import com.sm64builder.shared.data.IntentUtils;
 import com.sm64builder.shared.net.uri.UriUtils;
-import com.sm64builder.shared.errors.Errno;
+import com.termux.shared.errors.Errno;
 import com.sm64builder.shared.shell.ShellUtils;
 import com.sm64builder.shared.shell.command.runner.app.AppShell;
 import com.sm64builder.shared.termux.settings.properties.TermuxAppSharedProperties;
@@ -38,7 +38,7 @@ import com.sm64builder.shared.termux.settings.preferences.TermuxAppSharedPrefere
 import com.sm64builder.shared.termux.shell.TermuxShellManager;
 import com.sm64builder.shared.termux.shell.command.runner.terminal.TermuxSession;
 import com.sm64builder.shared.termux.terminal.TermuxTerminalSessionClientBase;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.notification.NotificationUtils;
 import com.sm64builder.shared.android.PermissionUtils;
 import com.sm64builder.shared.data.DataUtils;

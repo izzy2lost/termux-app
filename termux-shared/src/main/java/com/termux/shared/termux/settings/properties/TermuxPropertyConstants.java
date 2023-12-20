@@ -7,7 +7,7 @@ import com.sm64builder.shared.file.FileUtils;
 import com.sm64builder.shared.file.filesystem.FileType;
 import com.sm64builder.shared.settings.properties.SharedProperties;
 import com.sm64builder.shared.termux.TermuxConstants;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.terminal.TerminalEmulator;
 import com.sm64builder.view.TerminalView;
 

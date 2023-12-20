@@ -6,7 +6,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 import com.sm64builder.shared.data.DataUtils;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 import com.sm64builder.shared.android.PackageUtils;
 import com.sm64builder.shared.settings.preferences.AppSharedPreferences;
 import com.sm64builder.shared.settings.preferences.SharedPreferenceUtils;

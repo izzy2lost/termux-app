@@ -8,7 +8,7 @@ import android.os.SystemClock;
 import android.os.VibrationEffect;
 import android.os.Vibrator;
 
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 
 public class BellHandler {
     private static BellHandler instance = null;

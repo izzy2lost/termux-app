@@ -1,10 +1,10 @@
-package com.sm64builder.shared.net.socket.local;
+package com.termux.shared.net.socket.local;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.sm64builder.shared.errors.Error;
-import com.sm64builder.shared.logger.Logger;
+import com.termux.shared.errors.Error;
+import com.termux.shared.logger.Logger;
 
 /** Base helper implementation for {@link ILocalSocketManager}. */
 public abstract class LocalSocketManagerClientBase implements ILocalSocketManager {

@@ -1,6 +1,6 @@
 package com.sm64builder.shared.models;
 
-import com.sm64builder.shared.markdown.MarkdownUtils;
+import com.termux.shared.markdown.MarkdownUtils;
 import com.sm64builder.shared.android.AndroidUtils;
 
 import java.io.Serializable;
