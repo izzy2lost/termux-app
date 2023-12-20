@@ -1,4 +1,4 @@
-package com.termux.terminal;
+package com.sm64builder.terminal;
 
 import java.nio.charset.StandardCharsets;
 

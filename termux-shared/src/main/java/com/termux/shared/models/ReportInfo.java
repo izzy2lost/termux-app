@@ -1,12 +1,12 @@
-package com.termux.shared.models;
+package com.sm64builder.shared.models;
 
-import com.termux.shared.markdown.MarkdownUtils;
-import com.termux.shared.android.AndroidUtils;
+import com.sm64builder.shared.markdown.MarkdownUtils;
+import com.sm64builder.shared.android.AndroidUtils;
 
 import java.io.Serializable;
 
 /**
- * An object that stored info for {@link com.termux.shared.activities.ReportActivity}.
+ * An object that stored info for {@link com.sm64builder.shared.activities.ReportActivity}.
  */
 public class ReportInfo implements Serializable {
 

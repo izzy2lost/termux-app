@@ -1,6 +1,6 @@
-package com.termux.shared.shell.am;
+package com.sm64builder.shared.shell.am;
 
-import com.termux.shared.errors.Errno;
+import com.sm64builder.shared.errors.Errno;
 
 public class AmSocketServerErrno extends Errno {
 

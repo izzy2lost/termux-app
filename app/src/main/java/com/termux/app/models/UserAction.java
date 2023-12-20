@@ -1,4 +1,4 @@
-package com.termux.app.models;
+package com.sm64builder.app.models;
 
 public enum UserAction {
 

@@ -1,13 +1,13 @@
-package com.termux.shared.net.socket.local;
+package com.sm64builder.shared.net.socket.local;
 
 import android.content.Context;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.termux.shared.errors.Error;
-import com.termux.shared.jni.models.JniResult;
-import com.termux.shared.logger.Logger;
+import com.sm64builder.shared.errors.Error;
+import com.sm64builder.shared.jni.models.JniResult;
+import com.sm64builder.shared.logger.Logger;
 
 /**
  * Manager for an AF_UNIX/SOCK_STREAM local server.

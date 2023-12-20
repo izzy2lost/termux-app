@@ -1,11 +1,11 @@
-package com.termux.shared.shell.command.result;
+package com.sm64builder.shared.shell.command.result;
 
 import android.app.PendingIntent;
 
 import androidx.annotation.NonNull;
 
-import com.termux.shared.logger.Logger;
-import com.termux.shared.markdown.MarkdownUtils;
+import com.sm64builder.shared.logger.Logger;
+import com.sm64builder.shared.markdown.MarkdownUtils;
 
 import java.util.Formatter;
 

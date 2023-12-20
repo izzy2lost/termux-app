@@ -1,10 +1,10 @@
-package com.termux.shared.file.filesystem;
+package com.sm64builder.shared.file.filesystem;
 
 import android.system.Os;
 
 import androidx.annotation.NonNull;
 
-import com.termux.shared.logger.Logger;
+import com.sm64builder.shared.logger.Logger;
 
 import java.io.File;
 

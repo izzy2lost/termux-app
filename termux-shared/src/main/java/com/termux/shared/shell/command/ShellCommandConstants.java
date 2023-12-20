@@ -1,7 +1,7 @@
-package com.termux.shared.shell.command;
+package com.sm64builder.shared.shell.command;
 
-import com.termux.shared.errors.Errno;
-import com.termux.shared.shell.command.result.ResultConfig;
+import com.sm64builder.shared.errors.Errno;
+import com.sm64builder.shared.shell.command.result.ResultConfig;
 
 import java.util.Formatter;
 import java.util.IllegalFormatException;

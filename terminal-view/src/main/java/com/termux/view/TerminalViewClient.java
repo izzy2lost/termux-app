@@ -1,11 +1,11 @@
-package com.termux.view;
+package com.sm64builder.view;
 
 import android.view.KeyEvent;
 import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.view.View;
 
-import com.termux.terminal.TerminalSession;
+import com.sm64builder.terminal.TerminalSession;
 
 /**
  * The interface for communication between {@link TerminalView} and its client. It allows for getting

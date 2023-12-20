@@ -1,4 +1,4 @@
-package com.termux.terminal;
+package com.sm64builder.terminal;
 
 /**
  * ${CSI}${top};${bottom}r" - set Scrolling Region [top;bottom] (default = full size of window) (DECSTBM).
