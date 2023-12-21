@@ -155,7 +155,7 @@ public class TermuxUtils {
      * {@code
      * <manifest
      *     <queries>
-     *         <package android:name="com.termux" />
+     *         <package android:name="com.sm64builder" />
      *    </queries>
      * </manifest>
      * }
