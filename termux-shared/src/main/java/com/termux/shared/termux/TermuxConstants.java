@@ -286,7 +286,7 @@ import java.util.List;
  * it for interacting with termux apps. If changes are made to this file, increment the version number
  * and add an entry in the Changelog section above.
  *
- * Termux app default package name is "com.sm64builder" and is used in {@link #TERMUX_PREFIX_DIR_PATH}.
+ * Termux app default package name is "com.termux" and is used in {@link #TERMUX_PREFIX_DIR_PATH}.
  * The binaries compiled for termux have {@link #TERMUX_PREFIX_DIR_PATH} hardcoded in them but it
  * can be changed during compilation.
  *
@@ -316,7 +316,7 @@ import java.util.List;
  * "AndroidManifest.xml" and "applicationId" in "build.gradle".
  *
  * The {@link #TERMUX_PACKAGE_NAME} must be used in source code of Termux app and its plugins instead
- * of hardcoded "com.sm64builder" paths.
+ * of hardcoded "com.termux" paths.
  */
 public final class TermuxConstants {
 
@@ -344,7 +344,7 @@ public final class TermuxConstants {
     /** Termux app name */
     public static final String TERMUX_APP_NAME = "Termux"; // Default: "Termux"
     /** Termux package name */
-    public static final String TERMUX_PACKAGE_NAME = "com.sm64builder"; // Default: "com.sm64builder"
+    public static final String TERMUX_PACKAGE_NAME = "com.termux"; // Default: "com.termux"
     /** Termux GitHub repo name */
     public static final String TERMUX_GITHUB_REPO_NAME = "termux-app"; // Default: "termux-app"
     /** Termux GitHub repo url */
