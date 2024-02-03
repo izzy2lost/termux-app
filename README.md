@@ -1,6 +1,19 @@
+All that you need is a US Super Mario 64 rom, named baserom.us.z64
+It can be either in the root of downloads or in the root of internal storage either way it will probably find it!
+
+The external SM64EX builds need the base.zip moved to Android/data/files/res/ the base.zip is located inside the SM64 Builder in the sm64-izzys-port-android/build/us_pc/res/ folder.
+
+Please consider donating so I can continue working on this and other projects. Thank you!
+
 <a href="https://www.buymeacoffee.com/SM64_Builder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+
 **Termux users! You must uninstall termux before installing.**
+
+
+
+**I added the following as per a request**
+
 
 **If you don't want to uninstall termux, then use the codes below.**
 
