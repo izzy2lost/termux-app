@@ -19,6 +19,10 @@ To build Coop use the following code in termux and press enter.
 
 `bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-coop.sh)`
 
+To build Coop Render96 HD use the following code in termux and press enter.
+
+`bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-coop.sh)
+
 To build OMM use the following code in termux and press enter.
 
 `bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-omm.sh)`
