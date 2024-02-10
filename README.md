@@ -5,8 +5,7 @@ The external SM64EX builds need the base.zip moved to Android/data/files/res/ th
 
 Please consider donating so I can continue working on this and other projects. Thank you!
 
-<a href="https://www.buymeacoffee.com/SM64_Builder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
+<iframe src="https://github.com/sponsors/izzy2fancy/card" title="Sponsor izzy2fancy" height="225" width="600" style="border: 0;"></iframe>
 
 **Termux users! You must uninstall termux before installing.**
 
