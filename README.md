@@ -3,7 +3,7 @@ It can be either in the root of downloads or in the root of internal storage eit
 
 The external SM64EX builds need the base.zip moved to Android/data/files/res/ the base.zip is located inside the SM64 Builder in the sm64-izzys-port-android/build/us_pc/res/ folder.
 
-Please consider donating so I can continue working on this and other projects. Thank you!
+Please consider sponsoring me so I can continue working on this and other projects. Thank you!
 
 
 **Termux users! You must uninstall termux before installing.**
