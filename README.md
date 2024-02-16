@@ -13,7 +13,7 @@ Please consider sponsoring me so I can continue working on this and other projec
 **I added the following as per a request**
 
 
-**If you don't want to uninstall termux, then use the codes below.**
+**If you don't want to uninstall termux, then use the commands below.**
 
 To build Coop use the following code in termux and press enter.
 
