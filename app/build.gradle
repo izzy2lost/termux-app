@@ -215,7 +215,7 @@ task downloadBootstraps() {
         def packageVariant = project.ext.packageVariant
         if (packageVariant == "apt-android-7") {
             def version = "2023.07.13-r2" + "+" + packageVariant
-            downloadBootstrap("aarch64", "2811f228cd054ab90acd2c178a80659658846a9166710b5648018565ca65e9e6", version)
+            downloadBootstrap("aarch64", "b6f2ec488303d9691b600ff0459ef83f67c14b5aaa3d3d5f352a3570601cf0d6", version)
             downloadBootstrap("arm", "580cca3ff48b08aba2885f138cbc64a5190d5f5ffaf920c620f0bf65bb91f20e", version)
             downloadBootstrap("i686", "4d54018005755e2d9fc63bccfabb5d6a7ee7cb7db30ba0859d12f00ff50cf773", version)
             downloadBootstrap("x86_64", "9f1100a5315031e60f97d7cf32131f58750b4a456a82fb84eebbb599b294415f", version)
