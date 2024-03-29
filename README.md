@@ -17,41 +17,61 @@ Please consider sponsoring me so I can continue working on this and other projec
 
 To build Coop use the following code in termux and press enter.
 
-`bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-coop.sh)`
+```
+bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-coop.sh)
+```
 
 To build Coop Render96 HD use the following code in termux and press enter.
 
-`bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-coop-render96.sh)`
+```
+bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-coop-render96.sh)
+```
 
 To build OMM use the following code in termux and press enter.
 
-`bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-omm.sh)`
+```
+bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-omm.sh)
+```
 
 To build ALO use the following code in termux and press enter.
 
-`bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-alo.sh)`
+```
+bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-alo.sh)
+```
 
 To build SM64EX internal use the following code in termux and press enter.
 
-`bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-INT.sh)`
+```
+bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-INT.sh)
+```
 
 To build SM64EX internal No Touch use the following code in termux and press enter.
 
-`bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-INTnoTouch.sh)`
+```
+bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-INTnoTouch.sh)
+```
 
 To build SM64EX external (**Needs Assets moved to Android/data/files/res/**)use the following code in termux and press enter.
 
-`bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-EXT.sh)`
+```
+bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-EXT.sh)
+```
 
 To build SM64EX external No Touch (**Needs Assets moved to Android/data/files/res/**) use the following code in termux and press enter.
 
-`bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-EXTnoTouch.sh)`
+```
+bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-EXTnoTouch.sh)
+```
 
 To build SM64EX Porcino use the following code in termux and press enter.
 
-`bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-porcino.sh)` 
+```
+bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-sm64ex-porcino.sh)
+```
 
 To build SM64EX Star Road use the following code in termux and press enter.
 
-`bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-starroad.sh)`
+```
+bash <(curl -Ls https://github.com/izzy2fancy/termux-packages/raw/patch-2/packages/bash/build-starroad.sh)
+```
 
