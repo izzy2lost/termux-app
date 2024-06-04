@@ -182,7 +182,7 @@ def downloadBootstrap(String arch, String expectedChecksum, String version) {
         }
     }
 
-    def remoteUrl = "https://github.com/izzy2lost/termux-packages/releases/download/Bootstrap-CHD/bootstrap-" + arch + ".zip"
+    def remoteUrl = "https://github.com/izzy2lost/termux-packages/releases/download/Bootstrap-ZAR/bootstrap-" + arch + ".zip"
     logger.quiet("Downloading " + remoteUrl + " ...")
 
     file.parentFile.mkdirs()
